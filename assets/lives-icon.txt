@@ -1,0 +1,10 @@
+{
+	scale: 1,
+	cols: 1, rows: 1,
+	animations: {
+		idle: {
+			delay: 0.1,
+			start: 0, frames: 1,
+		},
+	}
+}

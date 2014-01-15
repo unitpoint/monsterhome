@@ -1,0 +1,907 @@
+Archive member included because of file (symbol)
+
+C:\marmalade\6.0\s3e\edk\lib\android\libedk.a(IwDebug.o)
+                              debug\AdmobAds_platform.os (IwDebugTraceSetTraceChannel)
+C:\marmalade\6.0\s3e\edk\lib\android\libedk.a(edk_helpers.o)
+                              debug\AdmobAds_platform.os (s3eEdkThreadRunOnOS)
+c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(_aeabi_ldivmod.o)
+                              C:\marmalade\6.0\s3e\edk\lib\android\libedk.a(IwDebug.o) (__aeabi_ldivmod)
+c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(bpabi.o)
+                              c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(_aeabi_ldivmod.o) (__gnu_ldivmod_helper)
+c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(unwind-arm.o)
+                              C:\marmalade\6.0\s3e\edk\lib\android\libedk.a(IwDebug.o) (__aeabi_unwind_cpp_pr0)
+c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(libunwind.o)
+                              c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(unwind-arm.o) (restore_core_regs)
+c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(pr-support.o)
+                              c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(unwind-arm.o) (__gnu_unwind_execute)
+c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(_divdi3.o)
+                              c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(bpabi.o) (__divdi3)
+c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(_udivdi3.o)
+                              c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(bpabi.o) (__udivdi3)
+c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(_udivsi3.o)
+                              c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(_divdi3.o) (__aeabi_uidiv)
+c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(_dvmd_lnx.o)
+                              c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(_udivsi3.o) (__div0)
+
+Discarded input sections
+
+ _ZN7_JNIEnv9FindClassEPKc
+                0x00000000        0x0 debug\AdmobAds_platform.os
+ _ZN7_JNIEnv17ExceptionOccurredEv
+                0x00000000        0x0 debug\AdmobAds_platform.os
+ _ZN7_JNIEnv17ExceptionDescribeEv
+                0x00000000        0x0 debug\AdmobAds_platform.os
+ _ZN7_JNIEnv14ExceptionClearEv
+                0x00000000        0x0 debug\AdmobAds_platform.os
+ _ZN7_JNIEnv12NewGlobalRefEP8_jobject
+                0x00000000        0x0 debug\AdmobAds_platform.os
+ _ZN7_JNIEnv15DeleteGlobalRefEP8_jobject
+                0x00000000        0x0 debug\AdmobAds_platform.os
+ _ZN7_JNIEnv14DeleteLocalRefEP8_jobject
+                0x00000000        0x0 debug\AdmobAds_platform.os
+ _ZN7_JNIEnv9NewObjectEP7_jclassP10_jmethodIDz
+                0x00000000        0x0 debug\AdmobAds_platform.os
+ _ZN7_JNIEnv11GetMethodIDEP7_jclassPKcS3_
+                0x00000000        0x0 debug\AdmobAds_platform.os
+ _ZN7_JNIEnv17CallBooleanMethodEP8_jobjectP10_jmethodIDz
+                0x00000000        0x0 debug\AdmobAds_platform.os
+ _ZN7_JNIEnv13CallIntMethodEP8_jobjectP10_jmethodIDz
+                0x00000000        0x0 debug\AdmobAds_platform.os
+ _ZN7_JNIEnv12NewStringUTFEPKc
+                0x00000000        0x0 debug\AdmobAds_platform.os
+ _ZN7_JavaVM6GetEnvEPPvi
+                0x00000000        0x0 debug\AdmobAds_platform.os
+ .text          0x00000000        0x0 debug\AdmobAds_platform.os
+ .data          0x00000000        0x0 debug\AdmobAds_platform.os
+ .note.GNU-stack
+                0x00000000        0x0 debug\AdmobAds_platform.os
+ .text          0x00000000        0x0 debug\AdmobAds.os
+ .data          0x00000000        0x0 debug\AdmobAds.os
+ .bss           0x00000000        0x0 debug\AdmobAds.os
+ .note.GNU-stack
+                0x00000000        0x0 debug\AdmobAds.os
+ .text          0x00000000        0x0 debug\AdmobAds_register.os
+ .data          0x00000000        0x0 debug\AdmobAds_register.os
+ .bss           0x00000000        0x0 debug\AdmobAds_register.os
+ .note.GNU-stack
+                0x00000000        0x0 debug\AdmobAds_register.os
+ .text          0x00000000        0x0 C:\marmalade\6.0\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .data          0x00000000        0x0 C:\marmalade\6.0\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .text.IwAssertRegisterTextCallback
+                0x00000000        0x0 C:\marmalade\6.0\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .ARM.extab.text.IwAssertRegisterTextCallback
+                0x00000000        0x0 C:\marmalade\6.0\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .ARM.exidx.text.IwAssertRegisterTextCallback
+                0x00000000        0x0 C:\marmalade\6.0\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .text.IwAssertRegisterCallback
+                0x00000000        0x0 C:\marmalade\6.0\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .ARM.extab.text.IwAssertRegisterCallback
+                0x00000000        0x0 C:\marmalade\6.0\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .ARM.exidx.text.IwAssertRegisterCallback
+                0x00000000        0x0 C:\marmalade\6.0\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .ARM.extab.text.IwDebugTraceSetTraceChannel
+                0x00000000        0x0 C:\marmalade\6.0\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .text.IwDebugErrorRegisterCallback
+                0x00000000        0x0 C:\marmalade\6.0\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .ARM.extab.text.IwDebugErrorRegisterCallback
+                0x00000000        0x0 C:\marmalade\6.0\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .ARM.exidx.text.IwDebugErrorRegisterCallback
+                0x00000000        0x0 C:\marmalade\6.0\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .text.IwDebugAssertSetUID
+                0x00000000        0x0 C:\marmalade\6.0\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .ARM.extab.text.IwDebugAssertSetUID
+                0x00000000        0x0 C:\marmalade\6.0\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .ARM.exidx.text.IwDebugAssertSetUID
+                0x00000000        0x0 C:\marmalade\6.0\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .ARM.extab.text._GLOBAL__I_g_DebugGlobals
+                0x00000000        0x0 C:\marmalade\6.0\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .text.IwDebugClearConfigCache
+                0x00000000        0x0 C:\marmalade\6.0\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .ARM.extab.text.IwDebugClearConfigCache
+                0x00000000        0x0 C:\marmalade\6.0\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .ARM.exidx.text.IwDebugClearConfigCache
+                0x00000000        0x0 C:\marmalade\6.0\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .text.IwDebugErrorShow
+                0x00000000        0x0 C:\marmalade\6.0\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .ARM.extab.text.IwDebugErrorShow
+                0x00000000        0x0 C:\marmalade\6.0\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .ARM.exidx.text.IwDebugErrorShow
+                0x00000000        0x0 C:\marmalade\6.0\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .ARM.extab.text.IwDebugTraceIsChannelOn
+                0x00000000        0x0 C:\marmalade\6.0\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .text.IwDebugAssertIsChannelOn
+                0x00000000        0x0 C:\marmalade\6.0\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .ARM.extab.text.IwDebugAssertIsChannelOn
+                0x00000000        0x0 C:\marmalade\6.0\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .ARM.exidx.text.IwDebugAssertIsChannelOn
+                0x00000000        0x0 C:\marmalade\6.0\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .text.IwDebugTraceDisable
+                0x00000000        0x0 C:\marmalade\6.0\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .ARM.extab.text.IwDebugTraceDisable
+                0x00000000        0x0 C:\marmalade\6.0\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .ARM.exidx.text.IwDebugTraceDisable
+                0x00000000        0x0 C:\marmalade\6.0\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .text.IwDebugAssertSetMessage
+                0x00000000        0x0 C:\marmalade\6.0\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .ARM.extab.text.IwDebugAssertSetMessage
+                0x00000000        0x0 C:\marmalade\6.0\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .ARM.exidx.text.IwDebugAssertSetMessage
+                0x00000000        0x0 C:\marmalade\6.0\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .text.IwDebugAssertSetSolution
+                0x00000000        0x0 C:\marmalade\6.0\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .ARM.extab.text.IwDebugAssertSetSolution
+                0x00000000        0x0 C:\marmalade\6.0\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .ARM.exidx.text.IwDebugAssertSetSolution
+                0x00000000        0x0 C:\marmalade\6.0\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .text.IwDebugAssertShow
+                0x00000000        0x0 C:\marmalade\6.0\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .ARM.extab.text.IwDebugAssertShow
+                0x00000000        0x0 C:\marmalade\6.0\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .ARM.exidx.text.IwDebugAssertShow
+                0x00000000        0x0 C:\marmalade\6.0\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .text.IwDebugTraceChannelSwitch
+                0x00000000        0x0 C:\marmalade\6.0\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .ARM.extab.text.IwDebugTraceChannelSwitch
+                0x00000000        0x0 C:\marmalade\6.0\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .ARM.exidx.text.IwDebugTraceChannelSwitch
+                0x00000000        0x0 C:\marmalade\6.0\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:\marmalade\6.0\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .text          0x00000000        0x0 C:\marmalade\6.0\s3e\edk\lib\android\libedk.a(edk_helpers.o)
+ .data          0x00000000        0x0 C:\marmalade\6.0\s3e\edk\lib\android\libedk.a(edk_helpers.o)
+ .bss           0x00000000        0x0 C:\marmalade\6.0\s3e\edk\lib\android\libedk.a(edk_helpers.o)
+ .text.s3eEdkThreadRunOnOSAsync
+                0x00000000        0x0 C:\marmalade\6.0\s3e\edk\lib\android\libedk.a(edk_helpers.o)
+ .ARM.extab.text.s3eEdkThreadRunOnOSAsync
+                0x00000000        0x0 C:\marmalade\6.0\s3e\edk\lib\android\libedk.a(edk_helpers.o)
+ .ARM.exidx.text.s3eEdkThreadRunOnOSAsync
+                0x00000000        0x0 C:\marmalade\6.0\s3e\edk\lib\android\libedk.a(edk_helpers.o)
+ .text.s3eEdkErrorSetString
+                0x00000000        0x0 C:\marmalade\6.0\s3e\edk\lib\android\libedk.a(edk_helpers.o)
+ .ARM.extab.text.s3eEdkErrorSetString
+                0x00000000        0x0 C:\marmalade\6.0\s3e\edk\lib\android\libedk.a(edk_helpers.o)
+ .ARM.exidx.text.s3eEdkErrorSetString
+                0x00000000        0x0 C:\marmalade\6.0\s3e\edk\lib\android\libedk.a(edk_helpers.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:\marmalade\6.0\s3e\edk\lib\android\libedk.a(edk_helpers.o)
+ .data          0x00000000        0x0 c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(_aeabi_ldivmod.o)
+ .bss           0x00000000        0x0 c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(_aeabi_ldivmod.o)
+ .note.GNU-stack
+                0x00000000        0x0 c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(_aeabi_ldivmod.o)
+ .data          0x00000000        0x0 c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(bpabi.o)
+ .bss           0x00000000        0x0 c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(bpabi.o)
+ .ARM.extab     0x00000000        0x0 c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(bpabi.o)
+ .note.GNU-stack
+                0x00000000        0x0 c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(bpabi.o)
+ .data          0x00000000        0x0 c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(unwind-arm.o)
+ .bss           0x00000000        0x0 c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(unwind-arm.o)
+ .note.GNU-stack
+                0x00000000        0x0 c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(unwind-arm.o)
+ .data          0x00000000        0x0 c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(libunwind.o)
+ .bss           0x00000000        0x0 c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(libunwind.o)
+ .note.GNU-stack
+                0x00000000        0x0 c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(libunwind.o)
+ .data          0x00000000        0x0 c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(pr-support.o)
+ .bss           0x00000000        0x0 c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(pr-support.o)
+ .ARM.extab     0x00000000        0x0 c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(pr-support.o)
+ .note.GNU-stack
+                0x00000000        0x0 c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(pr-support.o)
+ .data          0x00000000        0x0 c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(_divdi3.o)
+ .bss           0x00000000        0x0 c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(_divdi3.o)
+ .ARM.extab     0x00000000        0x0 c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(_divdi3.o)
+ .note.GNU-stack
+                0x00000000        0x0 c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(_divdi3.o)
+ .data          0x00000000        0x0 c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(_udivdi3.o)
+ .bss           0x00000000        0x0 c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(_udivdi3.o)
+ .ARM.extab     0x00000000        0x0 c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(_udivdi3.o)
+ .note.GNU-stack
+                0x00000000        0x0 c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(_udivdi3.o)
+ .data          0x00000000        0x0 c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(_udivsi3.o)
+ .bss           0x00000000        0x0 c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(_udivsi3.o)
+ .note.GNU-stack
+                0x00000000        0x0 c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(_udivsi3.o)
+ .data          0x00000000        0x0 c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(_dvmd_lnx.o)
+ .bss           0x00000000        0x0 c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(_dvmd_lnx.o)
+ .note.GNU-stack
+                0x00000000        0x0 c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(_dvmd_lnx.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD debug\AdmobAds_platform.os
+LOAD debug\AdmobAds.os
+LOAD debug\AdmobAds_register.os
+LOAD C:\marmalade\6.0\s3e\edk\lib\android\libedk.a
+LOAD C:\marmalade\6.0\s3e\edk\lib\android/libplaceholderplaceholderplaceholderplaceholderplaceholder.so
+LOAD C:\Program Files (x86)\Android\android-ndk-r8\platforms\android-9\arch-arm\usr\lib/libc.so
+LOAD C:\Program Files (x86)\Android\android-ndk-r8\platforms\android-9\arch-arm\usr\lib/libm.so
+LOAD C:\Program Files (x86)\Android\android-ndk-r8\platforms\android-9\arch-arm\usr\lib/liblog.so
+LOAD C:\Program Files (x86)\Android\android-ndk-r8\platforms\android-9\arch-arm\usr\lib/libstdc++.so
+LOAD c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a
+                0x000000d4                . = (0x0 + SIZEOF_HEADERS)
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.hash           0x000000d4      0x28c
+ *(.hash)
+ .hash          0x000000d4      0x28c debug\AdmobAds_platform.os
+
+.gnu.hash
+ *(.gnu.hash)
+
+.dynsym         0x00000360      0x5e0
+ *(.dynsym)
+ .dynsym        0x00000360      0x5e0 debug\AdmobAds_platform.os
+
+.dynstr         0x00000940      0x604
+ *(.dynstr)
+ .dynstr        0x00000940      0x604 debug\AdmobAds_platform.os
+
+.gnu.version    0x00000f44        0x0
+ *(.gnu.version)
+ .gnu.version   0x00000000        0x0 debug\AdmobAds_platform.os
+
+.gnu.version_d  0x00000f44        0x0
+ *(.gnu.version_d)
+ .gnu.version_d
+                0x00000000        0x0 debug\AdmobAds_platform.os
+
+.gnu.version_r  0x00000f44        0x0
+ *(.gnu.version_r)
+ .gnu.version_r
+                0x00000000        0x0 debug\AdmobAds_platform.os
+
+.rel.dyn        0x00000f44       0xb8
+ *(.rel.init)
+ *(.rel.text .rel.text.* .rel.gnu.linkonce.t.*)
+ .rel.text.IwAssertRegisterTextCallback
+                0x00000000        0x0 debug\AdmobAds_platform.os
+ .rel.text.IwAssertRegisterCallback
+                0x00000000        0x0 debug\AdmobAds_platform.os
+ .rel.text.IwDebugTraceSetTraceChannel
+                0x00000f44        0x8 debug\AdmobAds_platform.os
+ .rel.text.IwDebugErrorRegisterCallback
+                0x00000000        0x0 debug\AdmobAds_platform.os
+ .rel.text.IwDebugAssertSetUID
+                0x00000000        0x0 debug\AdmobAds_platform.os
+ .rel.text._GLOBAL__I_g_DebugGlobals
+                0x00000f4c        0x8 debug\AdmobAds_platform.os
+ .rel.text.IwDebugClearConfigCache
+                0x00000000        0x0 debug\AdmobAds_platform.os
+ .rel.text.IwDebugErrorShow
+                0x00000000        0x0 debug\AdmobAds_platform.os
+ .rel.text.IwDebugTraceLineVPrintf
+                0x00000f54       0x20 debug\AdmobAds_platform.os
+ .rel.text.IwDebugTraceIsChannelOn
+                0x00000f74       0x18 debug\AdmobAds_platform.os
+ .rel.text.IwDebugAssertIsChannelOn
+                0x00000000        0x0 debug\AdmobAds_platform.os
+ .rel.text.IwDebugAssertSetMessage
+                0x00000000        0x0 debug\AdmobAds_platform.os
+ .rel.text.IwDebugAssertSetSolution
+                0x00000000        0x0 debug\AdmobAds_platform.os
+ .rel.text.IwDebugAssertShow
+                0x00000000        0x0 debug\AdmobAds_platform.os
+ .rel.text.IwDebugTraceChannelSwitch
+                0x00000000        0x0 debug\AdmobAds_platform.os
+ *(.rel.fini)
+ *(.rel.rodata .rel.rodata.* .rel.gnu.linkonce.r.*)
+ *(.rel.data.rel.ro* .rel.gnu.linkonce.d.rel.ro.*)
+ *(.rel.data .rel.data.* .rel.gnu.linkonce.d.*)
+ *(.rel.tdata .rel.tdata.* .rel.gnu.linkonce.td.*)
+ *(.rel.tbss .rel.tbss.* .rel.gnu.linkonce.tb.*)
+ *(.rel.ctors)
+ *(.rel.dtors)
+ *(.rel.got)
+ .rel.got       0x00000f8c       0x68 debug\AdmobAds_platform.os
+ *(.rel.bss .rel.bss.* .rel.gnu.linkonce.b.*)
+ .rel.init_array
+                0x00000ff4        0x8 debug\AdmobAds_platform.os
+
+.rela.dyn
+ *(.rela.init)
+ *(.rela.text .rela.text.* .rela.gnu.linkonce.t.*)
+ *(.rela.fini)
+ *(.rela.rodata .rela.rodata.* .rela.gnu.linkonce.r.*)
+ *(.rela.data .rela.data.* .rela.gnu.linkonce.d.*)
+ *(.rela.tdata .rela.tdata.* .rela.gnu.linkonce.td.*)
+ *(.rela.tbss .rela.tbss.* .rela.gnu.linkonce.tb.*)
+ *(.rela.ctors)
+ *(.rela.dtors)
+ *(.rela.got)
+ *(.rela.bss .rela.bss.* .rela.gnu.linkonce.b.*)
+
+.rel.plt        0x00000ffc       0x98
+ *(.rel.plt)
+ .rel.plt       0x00000ffc       0x98 debug\AdmobAds_platform.os
+
+.rela.plt
+ *(.rela.plt)
+
+.init
+ *(.init)
+
+.plt            0x00001094       0xf8
+ *(.plt)
+ .plt           0x00001094       0xf8 debug\AdmobAds_platform.os
+
+.text           0x0000118c     0x30c8
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ .text._ZN7_JNIEnv9FindClassEPKc
+                0x0000118c       0x40 debug\AdmobAds_platform.os
+                0x0000118c                _JNIEnv::FindClass(char const*)
+ .text._ZN7_JNIEnv17ExceptionOccurredEv
+                0x000011cc       0x38 debug\AdmobAds_platform.os
+                0x000011cc                _JNIEnv::ExceptionOccurred()
+ .text._ZN7_JNIEnv17ExceptionDescribeEv
+                0x00001204       0x30 debug\AdmobAds_platform.os
+                0x00001204                _JNIEnv::ExceptionDescribe()
+ .text._ZN7_JNIEnv14ExceptionClearEv
+                0x00001234       0x30 debug\AdmobAds_platform.os
+                0x00001234                _JNIEnv::ExceptionClear()
+ .text._ZN7_JNIEnv12NewGlobalRefEP8_jobject
+                0x00001264       0x40 debug\AdmobAds_platform.os
+                0x00001264                _JNIEnv::NewGlobalRef(_jobject*)
+ .text._ZN7_JNIEnv15DeleteGlobalRefEP8_jobject
+                0x000012a4       0x38 debug\AdmobAds_platform.os
+                0x000012a4                _JNIEnv::DeleteGlobalRef(_jobject*)
+ .text._ZN7_JNIEnv14DeleteLocalRefEP8_jobject
+                0x000012dc       0x38 debug\AdmobAds_platform.os
+                0x000012dc                _JNIEnv::DeleteLocalRef(_jobject*)
+ .text._ZN7_JNIEnv9NewObjectEP7_jclassP10_jmethodIDz
+                0x00001314       0x60 debug\AdmobAds_platform.os
+                0x00001314                _JNIEnv::NewObject(_jclass*, _jmethodID*, ...)
+ .text._ZN7_JNIEnv11GetMethodIDEP7_jclassPKcS3_
+                0x00001374       0x50 debug\AdmobAds_platform.os
+                0x00001374                _JNIEnv::GetMethodID(_jclass*, char const*, char const*)
+ .text._ZN7_JNIEnv17CallBooleanMethodEP8_jobjectP10_jmethodIDz
+                0x000013c4       0x60 debug\AdmobAds_platform.os
+                0x000013c4                _JNIEnv::CallBooleanMethod(_jobject*, _jmethodID*, ...)
+ .text._ZN7_JNIEnv13CallIntMethodEP8_jobjectP10_jmethodIDz
+                0x00001424       0x60 debug\AdmobAds_platform.os
+                0x00001424                _JNIEnv::CallIntMethod(_jobject*, _jmethodID*, ...)
+ .text._ZN7_JNIEnv12NewStringUTFEPKc
+                0x00001484       0x40 debug\AdmobAds_platform.os
+                0x00001484                _JNIEnv::NewStringUTF(char const*)
+ .text._ZN7_JavaVM6GetEnvEPPvi
+                0x000014c4       0x48 debug\AdmobAds_platform.os
+                0x000014c4                _JavaVM::GetEnv(void**, int)
+ .text._ZL15s3eEdkJNIGetEnvv
+                0x0000150c       0x48 debug\AdmobAds_platform.os
+ .text._ZL27s3eEdkAndroidFindClass_realPKc
+                0x00001554       0x7c debug\AdmobAds_platform.os
+ .text._ZL22s3eEdkAndroidFindClassPKc
+                0x000015d0       0x3c debug\AdmobAds_platform.os
+ .text._Z21AdmobAdsInit_platformv
+                0x0000160c      0x36c debug\AdmobAds_platform.os
+                0x0000160c                AdmobAdsInit_platform()
+ .text._Z26AdmobAdsTerminate_platformv
+                0x00001978        0x4 debug\AdmobAds_platform.os
+                0x00001978                AdmobAdsTerminate_platform()
+ .text._Z16InitAds_platformPKc
+                0x0000197c       0x74 debug\AdmobAds_platform.os
+                0x0000197c                InitAds_platform(char const*)
+ .text._Z16ShowAds_platformv
+                0x000019f0       0x58 debug\AdmobAds_platform.os
+                0x000019f0                ShowAds_platform()
+ .text._Z16HideAds_platformv
+                0x00001a48       0x58 debug\AdmobAds_platform.os
+                0x00001a48                HideAds_platform()
+ .text._Z20hasAdLoaded_platformv
+                0x00001aa0       0x68 debug\AdmobAds_platform.os
+                0x00001aa0                hasAdLoaded_platform()
+ .text._Z12AdmobAdsInitv
+                0x00001b08       0x18 debug\AdmobAds.os
+                0x00001b08                AdmobAdsInit()
+ .text._Z17AdmobAdsTerminatev
+                0x00001b20       0x10 debug\AdmobAds.os
+                0x00001b20                AdmobAdsTerminate()
+ .text.InitAds  0x00001b30       0x28 debug\AdmobAds.os
+                0x00001b30                InitAds
+ .text.ShowAds  0x00001b58       0x18 debug\AdmobAds.os
+                0x00001b58                ShowAds
+ .text.HideAds  0x00001b70       0x18 debug\AdmobAds.os
+                0x00001b70                HideAds
+ .text.hasAdLoaded
+                0x00001b88       0x18 debug\AdmobAds.os
+                0x00001b88                hasAdLoaded
+ .text._ZL12InitAds_wrapPKc
+                0x00001ba0       0xa4 debug\AdmobAds_register.os
+ .text._ZL12ShowAds_wrapv
+                0x00001c44       0x94 debug\AdmobAds_register.os
+ .text._ZL12HideAds_wrapv
+                0x00001cd8       0x94 debug\AdmobAds_register.os
+ .text._ZL16hasAdLoaded_wrapv
+                0x00001d6c       0xa4 debug\AdmobAds_register.os
+ .text._Z19AdmobAdsRegisterExtv
+                0x00001e10       0xe0 debug\AdmobAds_register.os
+                0x00001e10                AdmobAdsRegisterExt()
+ .text.RegisterExt
+                0x00001ef0       0x10 debug\AdmobAds_register.os
+                0x00001ef0                RegisterExt
+ .text.IwDebugTraceSetTraceChannel
+                0x00001f00       0x18 C:\marmalade\6.0\s3e\edk\lib\android\libedk.a(IwDebug.o)
+                0x00001f00                IwDebugTraceSetTraceChannel
+ .text._GLOBAL__I_g_DebugGlobals
+                0x00001f18       0x8c C:\marmalade\6.0\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .text.IwDebugTraceLineVPrintf
+                0x00001fa4       0xe8 C:\marmalade\6.0\s3e\edk\lib\android\libedk.a(IwDebug.o)
+                0x00001fa4                IwDebugTraceLineVPrintf
+ .text.IwDebugTraceLinePrintf
+                0x0000208c       0x30 C:\marmalade\6.0\s3e\edk\lib\android\libedk.a(IwDebug.o)
+                0x0000208c                IwDebugTraceLinePrintf
+ .text.IwDebugTraceIsChannelOn
+                0x000020bc      0x278 C:\marmalade\6.0\s3e\edk\lib\android\libedk.a(IwDebug.o)
+                0x000020bc                IwDebugTraceIsChannelOn
+ .text.s3eEdkThreadRunOnOS
+                0x00002334       0x30 C:\marmalade\6.0\s3e\edk\lib\android\libedk.a(edk_helpers.o)
+                0x00002334                s3eEdkThreadRunOnOS
+ .text          0x00002364       0x1c c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(_aeabi_ldivmod.o)
+                0x00002364                __aeabi_ldivmod
+ .text          0x00002380       0x88 c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(bpabi.o)
+                0x00002380                __gnu_uldivmod_helper
+                0x000023c4                __gnu_ldivmod_helper
+ .text          0x00002408      0xec4 c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(unwind-arm.o)
+                0x00002e30                __gnu_Unwind_RaiseException
+                0x00002988                __aeabi_unwind_cpp_pr0
+                0x000024b8                _Unwind_GetCFA
+                0x00002454                _Unwind_VRS_Set
+                0x00002bcc                __gnu_Unwind_Backtrace
+                0x00002f60                _Unwind_VRS_Pop
+                0x00002978                __aeabi_unwind_cpp_pr2
+                0x000024c4                _Unwind_DeleteException
+                0x000024c0                _Unwind_Complete
+                0x00002ef4                __gnu_Unwind_Resume
+                0x00002dbc                __gnu_Unwind_ForcedUnwind
+                0x00002ed4                __gnu_Unwind_Resume_or_Rethrow
+                0x00002408                _Unwind_VRS_Get
+                0x00002980                __aeabi_unwind_cpp_pr1
+ .text          0x000032cc      0x1a8 c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(libunwind.o)
+                0x0000342c                ___Unwind_ForcedUnwind
+                0x000032e8                __gnu_Unwind_Save_VFP
+                0x00003408                _Unwind_Resume_or_Rethrow
+                0x00003408                ___Unwind_Resume_or_Rethrow
+                0x00003450                _Unwind_Backtrace
+                0x000032cc                __restore_core_regs
+                0x00003308                __gnu_Unwind_Save_VFP_D_16_to_31
+                0x000032f8                __gnu_Unwind_Save_VFP_D
+                0x00003450                ___Unwind_Backtrace
+                0x000033c0                ___Unwind_RaiseException
+                0x000033e4                ___Unwind_Resume
+                0x00003310                __gnu_Unwind_Restore_WMMXD
+                0x000032e0                __gnu_Unwind_Restore_VFP
+                0x000033e4                _Unwind_Resume
+                0x000032f0                __gnu_Unwind_Restore_VFP_D
+                0x00003300                __gnu_Unwind_Restore_VFP_D_16_to_31
+                0x000033c0                _Unwind_RaiseException
+                0x000032cc                restore_core_regs
+                0x000033ac                __gnu_Unwind_Save_WMMXC
+                0x00003398                __gnu_Unwind_Restore_WMMXC
+                0x0000342c                _Unwind_ForcedUnwind
+                0x00003354                __gnu_Unwind_Save_WMMXD
+ .text          0x00003474      0x484 c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(pr-support.o)
+                0x00003514                _Unwind_GetRegionStart
+                0x00003540                __gnu_unwind_execute
+                0x000034cc                _Unwind_GetTextRelBase
+                0x000034dc                _Unwind_GetLanguageSpecificData
+                0x000038b8                __gnu_unwind_frame
+                0x000034d4                _Unwind_GetDataRelBase
+ .text          0x000038f8      0x47c c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(_divdi3.o)
+                0x000038f8                __divdi3
+ .text          0x00003d74      0x40c c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(_udivdi3.o)
+                0x00003d74                __udivdi3
+ .text          0x00004180       0xc4 c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(_udivsi3.o)
+                0x00004180                __udivsi3
+                0x00004180                __aeabi_uidiv
+                0x0000422c                __aeabi_uidivmod
+ .text          0x00004244       0x10 c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(_dvmd_lnx.o)
+                0x00004244                __div0
+ *(.gnu.warning)
+ *(.glue_7t)
+ .glue_7t       0x00000000        0x0 linker stubs
+ *(.glue_7)
+ .glue_7        0x00000000        0x0 linker stubs
+ *(.vfp11_veneer)
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+ *(.v4_bx)
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.fini
+ *(.fini)
+                0x00004254                PROVIDE (__etext, .)
+                0x00004254                PROVIDE (_etext, .)
+                0x00004254                PROVIDE (etext, .)
+
+.rodata         0x00004254      0x2ac
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata        0x00004254       0xac debug\AdmobAds_platform.os
+ .rodata        0x00004300       0xe4 debug\AdmobAds_register.os
+ .rodata.str1.4
+                0x000043e4      0x11c C:\marmalade\6.0\s3e\edk\lib\android\libedk.a(IwDebug.o)
+                                0x120 (size before relaxing)
+
+.rodata1
+ *(.rodata1)
+
+.ARM.extab      0x00004500       0x48
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+ .ARM.extab.text.IwDebugTraceLineVPrintf
+                0x00004500        0xc C:\marmalade\6.0\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .ARM.extab.text.IwDebugTraceLinePrintf
+                0x0000450c        0xc C:\marmalade\6.0\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .ARM.extab.text.s3eEdkThreadRunOnOS
+                0x00004518        0xc C:\marmalade\6.0\s3e\edk\lib\android\libedk.a(edk_helpers.o)
+ .ARM.extab     0x00004524       0x24 c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(unwind-arm.o)
+                0x00004548                __exidx_start = .
+
+.ARM.exidx      0x00004548      0x128
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+ .ARM.exidx.text.IwDebugTraceSetTraceChannel
+                0x00004548        0x8 C:\marmalade\6.0\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .ARM.exidx.text._GLOBAL__I_g_DebugGlobals
+                0x00004550        0x8 C:\marmalade\6.0\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .ARM.exidx.text.IwDebugTraceLineVPrintf
+                0x00004558        0x8 C:\marmalade\6.0\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .ARM.exidx.text.IwDebugTraceLinePrintf
+                0x00004560        0x8 C:\marmalade\6.0\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .ARM.exidx.text.IwDebugTraceIsChannelOn
+                0x00004568        0x8 C:\marmalade\6.0\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .ARM.exidx.text.s3eEdkThreadRunOnOS
+                0x00004570        0x8 C:\marmalade\6.0\s3e\edk\lib\android\libedk.a(edk_helpers.o)
+ .ARM.exidx     0x00004578       0x10 c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(bpabi.o)
+ .ARM.exidx     0x00004588       0xa0 c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(unwind-arm.o)
+ .ARM.exidx     0x00004628       0x38 c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(pr-support.o)
+ .ARM.exidx     0x00004660        0x8 c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(_divdi3.o)
+ .ARM.exidx     0x00004668        0x8 c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(_udivdi3.o)
+                0x00004670                __exidx_end = .
+
+.eh_frame_hdr
+ *(.eh_frame_hdr)
+
+.eh_frame
+ *(.eh_frame)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+                0x00004670                . = (ALIGN (0x1000) - ((0x1000 - .) & 0xfff))
+                0x00005000                . = (0x1000 DATA_SEGMENT_ALIGN 0x1000)
+
+.eh_frame
+ *(.eh_frame)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.tdata
+ *(.tdata .tdata.* .gnu.linkonce.td.*)
+
+.tbss
+ *(.tbss .tbss.* .gnu.linkonce.tb.*)
+ *(.tcommon)
+
+.preinit_array
+ *(.preinit_array)
+
+.init_array     0x00005000        0x4
+ *(SORT(.init_array.*))
+ *(.init_array)
+ .init_array    0x00005000        0x4 C:\marmalade\6.0\s3e\edk\lib\android\libedk.a(IwDebug.o)
+
+.fini_array
+ *(.fini_array)
+ *(SORT(.fini_array.*))
+
+.ctors
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+
+.dtors
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+
+.jcr
+ *(.jcr)
+
+.data.rel.ro
+ *(.data.rel.ro.local* .gnu.linkonce.d.rel.ro.local.*)
+ *(.data.rel.ro* .gnu.linkonce.d.rel.ro.*)
+
+.dynamic        0x00005004       0xc0
+ *(.dynamic)
+ .dynamic       0x00005004       0xc0 debug\AdmobAds_platform.os
+                0x00005004                _DYNAMIC
+                0x000050c4                . = (. DATA_SEGMENT_RELRO_END 0x0)
+
+.got            0x000050c4       0x8c
+ *(.got.plt)
+ .got.plt       0x000050c4       0x58 debug\AdmobAds_platform.os
+                0x000050c4                _GLOBAL_OFFSET_TABLE_
+ *(.got)
+ .got           0x0000511c       0x34 debug\AdmobAds_platform.os
+
+.data           0x00005150        0x0
+                0x00005150                __data_start = .
+ *(.data .data.* .gnu.linkonce.d.*)
+
+.data1
+ *(.data1)
+                0x00005150                _edata = .
+                0x00005150                PROVIDE (edata, .)
+                0x00005150                __bss_start = .
+                0x00005150                __bss_start__ = .
+
+.bss            0x00005150     0x1a3c
+ *(.dynbss)
+ .dynbss        0x00000000        0x0 debug\AdmobAds_platform.os
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x00005150       0x14 debug\AdmobAds_platform.os
+ .bss           0x00005164     0x1a28 C:\marmalade\6.0\s3e\edk\lib\android\libedk.a(IwDebug.o)
+                0x00005164                g_DebugGlobals
+ *(COMMON)
+                0x00006b8c                . = ALIGN ((. != 0x0)?0x4:0x1)
+                0x00006b8c                _bss_end__ = .
+                0x00006b8c                __bss_end__ = .
+                0x00006b8c                . = ALIGN (0x4)
+                0x00006b8c                . = ALIGN (0x4)
+                0x00006b8c                __end__ = .
+                0x00006b8c                _end = .
+                0x00006b8c                PROVIDE (end, .)
+                0x00006b8c                . = DATA_SEGMENT_END (.)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0xe6
+ *(.comment)
+ .comment       0x00000000       0x12 debug\AdmobAds_platform.os
+ .comment       0x00000012       0x12 debug\AdmobAds.os
+ .comment       0x00000024       0x12 debug\AdmobAds_register.os
+ .comment       0x00000036       0x2b C:\marmalade\6.0\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .comment       0x00000061       0x2b C:\marmalade\6.0\s3e\edk\lib\android\libedk.a(edk_helpers.o)
+ .comment       0x0000008c       0x12 c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(bpabi.o)
+ .comment       0x0000009e       0x12 c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(unwind-arm.o)
+ .comment       0x000000b0       0x12 c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(pr-support.o)
+ .comment       0x000000c2       0x12 c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(_divdi3.o)
+ .comment       0x000000d4       0x12 c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(_udivdi3.o)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x278
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0xc8 debug\AdmobAds_platform.os
+ .debug_aranges
+                0x000000c8       0x48 debug\AdmobAds.os
+ .debug_aranges
+                0x00000110       0x48 debug\AdmobAds_register.os
+ .debug_aranges
+                0x00000158       0x20 c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(_aeabi_ldivmod.o)
+ .debug_aranges
+                0x00000178       0x20 c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(bpabi.o)
+ .debug_aranges
+                0x00000198       0x20 c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(unwind-arm.o)
+ .debug_aranges
+                0x000001b8       0x20 c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(libunwind.o)
+ .debug_aranges
+                0x000001d8       0x20 c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(pr-support.o)
+ .debug_aranges
+                0x000001f8       0x20 c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(_divdi3.o)
+ .debug_aranges
+                0x00000218       0x20 c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(_udivdi3.o)
+ .debug_aranges
+                0x00000238       0x20 c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(_udivsi3.o)
+ .debug_aranges
+                0x00000258       0x20 c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(_dvmd_lnx.o)
+
+.debug_pubnames
+                0x00000000      0x558
+ *(.debug_pubnames)
+ .debug_pubnames
+                0x00000000      0x1ff debug\AdmobAds_platform.os
+ .debug_pubnames
+                0x000001ff       0x6d debug\AdmobAds.os
+ .debug_pubnames
+                0x0000026c       0x3a debug\AdmobAds_register.os
+ .debug_pubnames
+                0x000002a6       0x45 c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(bpabi.o)
+ .debug_pubnames
+                0x000002eb      0x177 c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(unwind-arm.o)
+ .debug_pubnames
+                0x00000462       0xb7 c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(pr-support.o)
+ .debug_pubnames
+                0x00000519       0x1f c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(_divdi3.o)
+ .debug_pubnames
+                0x00000538       0x20 c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(_udivdi3.o)
+
+.debug_info     0x00000000     0x8973
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000     0x5b44 debug\AdmobAds_platform.os
+ .debug_info    0x00005b44      0x14d debug\AdmobAds.os
+ .debug_info    0x00005c91      0x19d debug\AdmobAds_register.os
+ .debug_info    0x00005e2e      0x10b c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(_aeabi_ldivmod.o)
+ .debug_info    0x00005f39       0xde c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(bpabi.o)
+ .debug_info    0x00006017     0x1424 c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(unwind-arm.o)
+ .debug_info    0x0000743b      0x10f c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(libunwind.o)
+ .debug_info    0x0000754a      0x636 c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(pr-support.o)
+ .debug_info    0x00007b80      0x606 c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(_divdi3.o)
+ .debug_info    0x00008186      0x5cb c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(_udivdi3.o)
+ .debug_info    0x00008751      0x111 c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(_udivsi3.o)
+ .debug_info    0x00008862      0x111 c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(_dvmd_lnx.o)
+
+.debug_abbrev   0x00000000      0xdb6
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x25b debug\AdmobAds_platform.os
+ .debug_abbrev  0x0000025b       0xca debug\AdmobAds.os
+ .debug_abbrev  0x00000325      0x104 debug\AdmobAds_register.os
+ .debug_abbrev  0x00000429       0x14 c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(_aeabi_ldivmod.o)
+ .debug_abbrev  0x0000043d       0x6a c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(bpabi.o)
+ .debug_abbrev  0x000004a7      0x3bb c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(unwind-arm.o)
+ .debug_abbrev  0x00000862       0x14 c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(libunwind.o)
+ .debug_abbrev  0x00000876      0x220 c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(pr-support.o)
+ .debug_abbrev  0x00000a96      0x18b c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(_divdi3.o)
+ .debug_abbrev  0x00000c21      0x16d c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(_udivdi3.o)
+ .debug_abbrev  0x00000d8e       0x14 c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(_udivsi3.o)
+ .debug_abbrev  0x00000da2       0x14 c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(_dvmd_lnx.o)
+
+.debug_line     0x00000000     0x13a9
+ *(.debug_line)
+ .debug_line    0x00000000      0x35d debug\AdmobAds_platform.os
+ .debug_line    0x0000035d      0x109 debug\AdmobAds.os
+ .debug_line    0x00000466      0x131 debug\AdmobAds_register.os
+ .debug_line    0x00000597       0xb9 c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(_aeabi_ldivmod.o)
+ .debug_line    0x00000650       0xbf c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(bpabi.o)
+ .debug_line    0x0000070f      0x4e8 c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(unwind-arm.o)
+ .debug_line    0x00000bf7      0x105 c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(libunwind.o)
+ .debug_line    0x00000cfc      0x1e8 c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(pr-support.o)
+ .debug_line    0x00000ee4      0x19b c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(_divdi3.o)
+ .debug_line    0x0000107f      0x18b c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(_udivdi3.o)
+ .debug_line    0x0000120a       0xe0 c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(_udivsi3.o)
+ .debug_line    0x000012ea       0xbf c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(_dvmd_lnx.o)
+
+.debug_frame    0x00000000      0x858
+ *(.debug_frame)
+ .debug_frame   0x00000000      0x284 debug\AdmobAds_platform.os
+ .debug_frame   0x00000284       0xb8 debug\AdmobAds.os
+ .debug_frame   0x0000033c       0xb8 debug\AdmobAds_register.os
+ .debug_frame   0x000003f4       0x60 c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(bpabi.o)
+ .debug_frame   0x00000454      0x248 c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(unwind-arm.o)
+ .debug_frame   0x0000069c      0x108 c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(pr-support.o)
+ .debug_frame   0x000007a4       0x44 c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(_divdi3.o)
+ .debug_frame   0x000007e8       0x48 c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(_udivdi3.o)
+ .debug_frame   0x00000830       0x28 c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(_udivsi3.o)
+
+.debug_str      0x00000000     0x55ac
+ *(.debug_str)
+ .debug_str     0x00000000     0x486a debug\AdmobAds_platform.os
+                               0x49e4 (size before relaxing)
+ .debug_str     0x0000486a       0xa4 debug\AdmobAds.os
+                                0x1fd (size before relaxing)
+ .debug_str     0x0000490e       0xd3 debug\AdmobAds_register.os
+                                0x223 (size before relaxing)
+ .debug_str     0x000049e1       0xcd c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(bpabi.o)
+                                 0xf2 (size before relaxing)
+ .debug_str     0x00004aae      0x828 c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(unwind-arm.o)
+                                0x908 (size before relaxing)
+ .debug_str     0x000052d6      0x151 c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(pr-support.o)
+                                0x46e (size before relaxing)
+ .debug_str     0x00005427      0x17b c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(_divdi3.o)
+                                0x22b (size before relaxing)
+ .debug_str     0x000055a2        0xa c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(_udivdi3.o)
+                                0x22c (size before relaxing)
+
+.debug_loc      0x00000000     0x2671
+ *(.debug_loc)
+ .debug_loc     0x00000000      0x3c0 debug\AdmobAds_platform.os
+ .debug_loc     0x000003c0       0xcc debug\AdmobAds.os
+ .debug_loc     0x0000048c       0xd8 debug\AdmobAds_register.os
+ .debug_loc     0x00000564      0x120 c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(bpabi.o)
+ .debug_loc     0x00000684      0xfef c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(unwind-arm.o)
+ .debug_loc     0x00001673      0x2f9 c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(pr-support.o)
+ .debug_loc     0x0000196c      0x6cf c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(_divdi3.o)
+ .debug_loc     0x0000203b      0x636 c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(_udivdi3.o)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000      0x478
+ *(.debug_ranges)
+ .debug_ranges  0x00000000       0xb8 debug\AdmobAds_platform.os
+ .debug_ranges  0x000000b8       0x38 debug\AdmobAds.os
+ .debug_ranges  0x000000f0       0x38 debug\AdmobAds_register.os
+ .debug_ranges  0x00000128      0x1f8 c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(unwind-arm.o)
+ .debug_ranges  0x00000320       0x30 c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(pr-support.o)
+ .debug_ranges  0x00000350       0xa0 c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(_divdi3.o)
+ .debug_ranges  0x000003f0       0x88 c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(_udivdi3.o)
+
+.gnu.attributes
+ *(.gnu.attributes)
+
+.note.gnu.arm.ident
+ *(.note.gnu.arm.ident)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+OUTPUT(C:\marmalade\marmalade-projects\monsterhome\extensions\admobads\lib\android\libAdmobAds_d.so elf32-littlearm)
+
+.ARM.attributes
+                0x00000000       0x2b
+ .ARM.attributes
+                0x00000000       0x28 debug\AdmobAds_platform.os
+ .ARM.attributes
+                0x00000028       0x28 debug\AdmobAds.os
+ .ARM.attributes
+                0x00000050       0x28 debug\AdmobAds_register.os
+ .ARM.attributes
+                0x00000078       0x2c C:\marmalade\6.0\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .ARM.attributes
+                0x000000a4       0x2c C:\marmalade\6.0\s3e\edk\lib\android\libedk.a(edk_helpers.o)
+ .ARM.attributes
+                0x000000d0       0x19 c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(_aeabi_ldivmod.o)
+ .ARM.attributes
+                0x000000e9       0x29 c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(bpabi.o)
+ .ARM.attributes
+                0x00000112       0x29 c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(unwind-arm.o)
+ .ARM.attributes
+                0x0000013b       0x19 c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(libunwind.o)
+ .ARM.attributes
+                0x00000154       0x29 c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(pr-support.o)
+ .ARM.attributes
+                0x0000017d       0x29 c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(_divdi3.o)
+ .ARM.attributes
+                0x000001a6       0x29 c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(_udivdi3.o)
+ .ARM.attributes
+                0x000001cf       0x19 c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(_udivsi3.o)
+ .ARM.attributes
+                0x000001e8       0x19 c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a(_dvmd_lnx.o)

@@ -1,0 +1,2 @@
+^C:\MARMALADE\MARMALADE-PROJECTS\MONSTERHOME\EXTENSIONS\ADMOBADS\ADMOBADS_WINDOWS.MKB
+"C:\Marmalade\6.0\s3e\python\python.exe" "C:\Marmalade\6.0\s3e\makefile_builder\mkb.py" "--open-with-wmlaunchpad" "C:/Marmalade/Marmalade-Projects/MonsterHome/extensions/AdmobAds/AdmobAds_windows.mkb" "--default-buildenv=vc10" --msvc-project

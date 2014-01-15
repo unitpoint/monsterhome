@@ -1,0 +1,437 @@
+Archive member included because of file (symbol)
+
+C:\marmalade\6.0\s3e\edk\lib\android\libedk.a(edk_helpers.o)
+                              release\AdmobAds_platform.os (s3eEdkThreadRunOnOS)
+
+Discarded input sections
+
+ _ZN7_JNIEnv17CallBooleanMethodEP8_jobjectP10_jmethodIDz
+                0x00000000        0x0 release\AdmobAds_platform.os
+ _ZN7_JNIEnv13CallIntMethodEP8_jobjectP10_jmethodIDz
+                0x00000000        0x0 release\AdmobAds_platform.os
+ _ZN7_JNIEnv9NewObjectEP7_jclassP10_jmethodIDz
+                0x00000000        0x0 release\AdmobAds_platform.os
+ .text          0x00000000        0x0 release\AdmobAds_platform.os
+ .data          0x00000000        0x0 release\AdmobAds_platform.os
+ .note.GNU-stack
+                0x00000000        0x0 release\AdmobAds_platform.os
+ .text          0x00000000        0x0 release\AdmobAds.os
+ .data          0x00000000        0x0 release\AdmobAds.os
+ .bss           0x00000000        0x0 release\AdmobAds.os
+ .note.GNU-stack
+                0x00000000        0x0 release\AdmobAds.os
+ .text          0x00000000        0x0 release\AdmobAds_register.os
+ .data          0x00000000        0x0 release\AdmobAds_register.os
+ .bss           0x00000000        0x0 release\AdmobAds_register.os
+ .text._Z19AdmobAdsRegisterExtv
+                0x00000000        0x0 release\AdmobAds_register.os
+ .note.GNU-stack
+                0x00000000        0x0 release\AdmobAds_register.os
+ .text          0x00000000        0x0 C:\marmalade\6.0\s3e\edk\lib\android\libedk.a(edk_helpers.o)
+ .data          0x00000000        0x0 C:\marmalade\6.0\s3e\edk\lib\android\libedk.a(edk_helpers.o)
+ .bss           0x00000000        0x0 C:\marmalade\6.0\s3e\edk\lib\android\libedk.a(edk_helpers.o)
+ .text.s3eEdkThreadRunOnOSAsync
+                0x00000000        0x0 C:\marmalade\6.0\s3e\edk\lib\android\libedk.a(edk_helpers.o)
+ .ARM.extab.text.s3eEdkThreadRunOnOSAsync
+                0x00000000        0x0 C:\marmalade\6.0\s3e\edk\lib\android\libedk.a(edk_helpers.o)
+ .ARM.exidx.text.s3eEdkThreadRunOnOSAsync
+                0x00000000        0x0 C:\marmalade\6.0\s3e\edk\lib\android\libedk.a(edk_helpers.o)
+ .text.s3eEdkErrorSetString
+                0x00000000        0x0 C:\marmalade\6.0\s3e\edk\lib\android\libedk.a(edk_helpers.o)
+ .ARM.extab.text.s3eEdkErrorSetString
+                0x00000000        0x0 C:\marmalade\6.0\s3e\edk\lib\android\libedk.a(edk_helpers.o)
+ .ARM.exidx.text.s3eEdkErrorSetString
+                0x00000000        0x0 C:\marmalade\6.0\s3e\edk\lib\android\libedk.a(edk_helpers.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:\marmalade\6.0\s3e\edk\lib\android\libedk.a(edk_helpers.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD release\AdmobAds_platform.os
+LOAD release\AdmobAds.os
+LOAD release\AdmobAds_register.os
+LOAD C:\marmalade\6.0\s3e\edk\lib\android\libedk.a
+LOAD C:\marmalade\6.0\s3e\edk\lib\android/libplaceholderplaceholderplaceholderplaceholderplaceholder.so
+LOAD C:\Program Files (x86)\Android\android-ndk-r8\platforms\android-9\arch-arm\usr\lib/libc.so
+LOAD C:\Program Files (x86)\Android\android-ndk-r8\platforms\android-9\arch-arm\usr\lib/libm.so
+LOAD C:\Program Files (x86)\Android\android-ndk-r8\platforms\android-9\arch-arm\usr\lib/liblog.so
+LOAD C:\Program Files (x86)\Android\android-ndk-r8\platforms\android-9\arch-arm\usr\lib/libstdc++.so
+LOAD c:/Program Files (x86)/Android/android-ndk-r8/toolchains/arm-linux-androideabi-4.4.3/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.4.3\libgcc.a
+                0x000000d4                . = (0x0 + SIZEOF_HEADERS)
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.hash           0x000000d4       0x9c
+ *(.hash)
+ .hash          0x000000d4       0x9c release\AdmobAds_platform.os
+
+.gnu.hash
+ *(.gnu.hash)
+
+.dynsym         0x00000170      0x140
+ *(.dynsym)
+ .dynsym        0x00000170      0x140 release\AdmobAds_platform.os
+
+.dynstr         0x000002b0      0x129
+ *(.dynstr)
+ .dynstr        0x000002b0      0x129 release\AdmobAds_platform.os
+
+.gnu.version    0x000003da        0x0 load address 0x000003d9
+ *(.gnu.version)
+ .gnu.version   0x00000000        0x0 release\AdmobAds_platform.os
+
+.gnu.version_d  0x000003dc        0x0 load address 0x000003d9
+ *(.gnu.version_d)
+ .gnu.version_d
+                0x00000000        0x0 release\AdmobAds_platform.os
+
+.gnu.version_r  0x000003dc        0x0 load address 0x000003d9
+ *(.gnu.version_r)
+ .gnu.version_r
+                0x00000000        0x0 release\AdmobAds_platform.os
+
+.rel.dyn        0x000003dc       0x30
+ *(.rel.init)
+ *(.rel.text .rel.text.* .rel.gnu.linkonce.t.*)
+ *(.rel.fini)
+ *(.rel.rodata .rel.rodata.* .rel.gnu.linkonce.r.*)
+ *(.rel.data.rel.ro* .rel.gnu.linkonce.d.rel.ro.*)
+ *(.rel.data .rel.data.* .rel.gnu.linkonce.d.*)
+ *(.rel.tdata .rel.tdata.* .rel.gnu.linkonce.td.*)
+ *(.rel.tbss .rel.tbss.* .rel.gnu.linkonce.tb.*)
+ *(.rel.ctors)
+ *(.rel.dtors)
+ *(.rel.got)
+ .rel.got       0x000003dc       0x30 release\AdmobAds_platform.os
+ *(.rel.bss .rel.bss.* .rel.gnu.linkonce.b.*)
+
+.rela.dyn
+ *(.rela.init)
+ *(.rela.text .rela.text.* .rela.gnu.linkonce.t.*)
+ *(.rela.fini)
+ *(.rela.rodata .rela.rodata.* .rela.gnu.linkonce.r.*)
+ *(.rela.data .rela.data.* .rela.gnu.linkonce.d.*)
+ *(.rela.tdata .rela.tdata.* .rela.gnu.linkonce.td.*)
+ *(.rela.tbss .rela.tbss.* .rela.gnu.linkonce.tb.*)
+ *(.rela.ctors)
+ *(.rela.dtors)
+ *(.rela.got)
+ *(.rela.bss .rela.bss.* .rela.gnu.linkonce.b.*)
+
+.rel.plt        0x0000040c       0x18
+ *(.rel.plt)
+ .rel.plt       0x0000040c       0x18 release\AdmobAds_platform.os
+
+.rela.plt
+ *(.rela.plt)
+
+.init
+ *(.init)
+
+.plt            0x00000424       0x38
+ *(.plt)
+ .plt           0x00000424       0x38 release\AdmobAds_platform.os
+
+.text           0x0000045c      0x6e8
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ .text._Z26AdmobAdsTerminate_platformv
+                0x0000045c        0x4 release\AdmobAds_platform.os
+                0x0000045c                AdmobAdsTerminate_platform()
+ .text._ZN7_JNIEnv17CallBooleanMethodEP8_jobjectP10_jmethodIDz
+                0x00000460       0x38 release\AdmobAds_platform.os
+                0x00000460                _JNIEnv::CallBooleanMethod(_jobject*, _jmethodID*, ...)
+ .text._ZN7_JNIEnv13CallIntMethodEP8_jobjectP10_jmethodIDz
+                0x00000498       0x38 release\AdmobAds_platform.os
+                0x00000498                _JNIEnv::CallIntMethod(_jobject*, _jmethodID*, ...)
+ .text._ZN7_JNIEnv9NewObjectEP7_jclassP10_jmethodIDz
+                0x000004d0       0x38 release\AdmobAds_platform.os
+                0x000004d0                _JNIEnv::NewObject(_jclass*, _jmethodID*, ...)
+ .text._Z21AdmobAdsInit_platformv
+                0x00000508      0x248 release\AdmobAds_platform.os
+                0x00000508                AdmobAdsInit_platform()
+ .text._Z16ShowAds_platformv
+                0x00000750       0x58 release\AdmobAds_platform.os
+                0x00000750                ShowAds_platform()
+ .text._Z16HideAds_platformv
+                0x000007a8       0x58 release\AdmobAds_platform.os
+                0x000007a8                HideAds_platform()
+ .text._Z20hasAdLoaded_platformv
+                0x00000800       0x60 release\AdmobAds_platform.os
+                0x00000800                hasAdLoaded_platform()
+ .text._Z16InitAds_platformPKc
+                0x00000860       0x7c release\AdmobAds_platform.os
+                0x00000860                InitAds_platform(char const*)
+ .text._ZL27s3eEdkAndroidFindClass_realPKc
+                0x000008dc       0xa0 release\AdmobAds_platform.os
+ .text.hasAdLoaded
+                0x0000097c       0x10 release\AdmobAds.os
+                0x0000097c                hasAdLoaded
+ .text.HideAds  0x0000098c       0x10 release\AdmobAds.os
+                0x0000098c                HideAds
+ .text.ShowAds  0x0000099c       0x10 release\AdmobAds.os
+                0x0000099c                ShowAds
+ .text.InitAds  0x000009ac       0x10 release\AdmobAds.os
+                0x000009ac                InitAds
+ .text._Z17AdmobAdsTerminatev
+                0x000009bc       0x10 release\AdmobAds.os
+                0x000009bc                AdmobAdsTerminate()
+ .text._Z12AdmobAdsInitv
+                0x000009cc       0x10 release\AdmobAds.os
+                0x000009cc                AdmobAdsInit()
+ .text._ZL16hasAdLoaded_wrapv
+                0x000009dc       0x28 release\AdmobAds_register.os
+ .text._ZL12HideAds_wrapv
+                0x00000a04       0x20 release\AdmobAds_register.os
+ .text._ZL12ShowAds_wrapv
+                0x00000a24       0x20 release\AdmobAds_register.os
+ .text._ZL12InitAds_wrapPKc
+                0x00000a44       0x24 release\AdmobAds_register.os
+ .text.RegisterExt
+                0x00000a68       0xac release\AdmobAds_register.os
+                0x00000a68                RegisterExt
+ .text.s3eEdkThreadRunOnOS
+                0x00000b14       0x30 C:\marmalade\6.0\s3e\edk\lib\android\libedk.a(edk_helpers.o)
+                0x00000b14                s3eEdkThreadRunOnOS
+ *(.gnu.warning)
+ *(.glue_7t)
+ .glue_7t       0x00000000        0x0 linker stubs
+ *(.glue_7)
+ .glue_7        0x00000000        0x0 linker stubs
+ *(.vfp11_veneer)
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+ *(.v4_bx)
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.fini
+ *(.fini)
+                0x00000b44                PROVIDE (__etext, .)
+                0x00000b44                PROVIDE (_etext, .)
+                0x00000b44                PROVIDE (etext, .)
+
+.rodata         0x00000b44       0x5c
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata.str1.4
+                0x00000b44       0x5c release\AdmobAds_platform.os
+ .rodata.str1.4
+                0x00000000        0xc release\AdmobAds_register.os
+
+.rodata1
+ *(.rodata1)
+
+.ARM.extab      0x00000ba0        0xc
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+ .ARM.extab.text.s3eEdkThreadRunOnOS
+                0x00000ba0        0xc C:\marmalade\6.0\s3e\edk\lib\android\libedk.a(edk_helpers.o)
+                0x00000bac                __exidx_start = .
+
+.ARM.exidx      0x00000bac        0x8
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+ .ARM.exidx.text.s3eEdkThreadRunOnOS
+                0x00000bac        0x8 C:\marmalade\6.0\s3e\edk\lib\android\libedk.a(edk_helpers.o)
+                0x00000bb4                __exidx_end = .
+
+.eh_frame_hdr
+ *(.eh_frame_hdr)
+
+.eh_frame
+ *(.eh_frame)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+                0x00000bb4                . = (ALIGN (0x1000) - ((0x1000 - .) & 0xfff))
+                0x00001bb4                . = (0x1000 DATA_SEGMENT_ALIGN 0x1000)
+
+.eh_frame
+ *(.eh_frame)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.tdata
+ *(.tdata .tdata.* .gnu.linkonce.td.*)
+
+.tbss
+ *(.tbss .tbss.* .gnu.linkonce.tb.*)
+ *(.tcommon)
+
+.preinit_array
+ *(.preinit_array)
+
+.init_array
+ *(SORT(.init_array.*))
+ *(.init_array)
+
+.fini_array
+ *(.fini_array)
+ *(SORT(.fini_array.*))
+
+.ctors
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+
+.dtors
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+
+.jcr
+ *(.jcr)
+
+.data.rel.ro
+ *(.data.rel.ro.local* .gnu.linkonce.d.rel.ro.local.*)
+ *(.data.rel.ro* .gnu.linkonce.d.rel.ro.*)
+
+.dynamic        0x00001bb4       0xa8
+ *(.dynamic)
+ .dynamic       0x00001bb4       0xa8 release\AdmobAds_platform.os
+                0x00001bb4                _DYNAMIC
+                0x00001c5c                . = (. DATA_SEGMENT_RELRO_END 0x0)
+
+.got            0x00001c5c       0x30
+ *(.got.plt)
+ .got.plt       0x00001c5c       0x18 release\AdmobAds_platform.os
+                0x00001c5c                _GLOBAL_OFFSET_TABLE_
+ *(.got)
+ .got           0x00001c74       0x18 release\AdmobAds_platform.os
+
+.data           0x00001c8c        0x0
+                0x00001c8c                __data_start = .
+ *(.data .data.* .gnu.linkonce.d.*)
+
+.data1
+ *(.data1)
+                0x00001c8c                _edata = .
+                0x00001c8c                PROVIDE (edata, .)
+                0x00001c8c                __bss_start = .
+                0x00001c8c                __bss_start__ = .
+
+.bss            0x00001c8c       0x14
+ *(.dynbss)
+ .dynbss        0x00000000        0x0 release\AdmobAds_platform.os
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x00001c8c       0x14 release\AdmobAds_platform.os
+ *(COMMON)
+                0x00001ca0                . = ALIGN ((. != 0x0)?0x4:0x1)
+                0x00001ca0                _bss_end__ = .
+                0x00001ca0                __bss_end__ = .
+                0x00001ca0                . = ALIGN (0x4)
+                0x00001ca0                . = ALIGN (0x4)
+                0x00001ca0                __end__ = .
+                0x00001ca0                _end = .
+                0x00001ca0                PROVIDE (end, .)
+                0x00001ca0                . = DATA_SEGMENT_END (.)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x61
+ *(.comment)
+ .comment       0x00000000       0x12 release\AdmobAds_platform.os
+ .comment       0x00000012       0x12 release\AdmobAds.os
+ .comment       0x00000024       0x12 release\AdmobAds_register.os
+ .comment       0x00000036       0x2b C:\marmalade\6.0\s3e\edk\lib\android\libedk.a(edk_helpers.o)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges
+ *(.debug_aranges)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info
+ *(.debug_info .gnu.linkonce.wi.*)
+
+.debug_abbrev
+ *(.debug_abbrev)
+
+.debug_line
+ *(.debug_line)
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str
+ *(.debug_str)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.gnu.attributes
+ *(.gnu.attributes)
+
+.note.gnu.arm.ident
+ *(.note.gnu.arm.ident)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+OUTPUT(C:\marmalade\marmalade-projects\monsterhome\extensions\admobads\lib\android\libAdmobAds.so elf32-littlearm)
+
+.ARM.attributes
+                0x00000000       0x2a
+ .ARM.attributes
+                0x00000000       0x28 release\AdmobAds_platform.os
+ .ARM.attributes
+                0x00000028       0x28 release\AdmobAds.os
+ .ARM.attributes
+                0x00000050       0x28 release\AdmobAds_register.os
+ .ARM.attributes
+                0x00000078       0x2c C:\marmalade\6.0\s3e\edk\lib\android\libedk.a(edk_helpers.o)

@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="X86 Debug|Win32">
+      <Configuration>X86 Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="X86 Release|Win32">
+      <Configuration>X86 Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    </ItemGroup>
+
+    <PropertyGroup Label="Globals">
+      <ProjectGuid>{52F04D33-EED5-4EA7-8123-B57083AB4532}</ProjectGuid>
+      <Keyword>Win32Proj</Keyword>
+      <RootNamespace>RealProj</RootNamespace>
+    </PropertyGroup>
+    <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+    <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='X86 Debug|Win32'" Label="Configuration">
+      <ConfigurationType>DynamicLibrary</ConfigurationType>
+      <UseDebugLibraries>true</UseDebugLibraries>
+      <CharacterSet>Unicode</CharacterSet>
+    </PropertyGroup>
+    <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='X86 Release|Win32'" Label="Configuration">
+      <ConfigurationType>DynamicLibrary</ConfigurationType>
+      <UseDebugLibraries>true</UseDebugLibraries>
+      <CharacterSet>Unicode</CharacterSet>
+    </PropertyGroup>
+    <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+    <ImportGroup Label="ExtensionSettings">
+    </ImportGroup>
+    <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='X86 Debug|Win32'">
+      <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+    </ImportGroup>
+    <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='X86 Release|Win32'">
+      <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+    </ImportGroup>
+    <PropertyGroup Label="UserMacros" />
+        <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='X86 Debug|Win32'">
+      <LinkIncremental>true</LinkIncremental>
+      <ExecutablePath>$(S3E_DIR)\bin;$(VCInstallDir)bin;$(WindowsSdkDir)bin\NETFX 4.0 Tools;$(WindowsSdkDir)bin;$(VSInstallDir)Common7\Tools\bin;$(VSInstallDir)Common7\tools;$(VSInstallDir)Common7\ide;$(ProgramFiles)\HTML Help Workshop;$(FrameworkSDKDir)\bin;$(MSBuildToolsPath32);$(VSInstallDir);$(SystemRoot)\SysWow64;$(FxCopDir);$(PATH);</ExecutablePath>
+      <IntDir>Debug_AdmobAds_windows_vc10_x86\</IntDir>
+      <OutDir>c:\marmalade\marmalade-projects\monsterhome\extensions\admobads\lib\win32\</OutDir>
+      <TargetName>AdmobAds_d</TargetName>
+      <TargetExt>.dll</TargetExt>
+      <GenerateManifest>false</GenerateManifest>
+    </PropertyGroup>
+    <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='X86 Release|Win32'">
+      <LinkIncremental>false</LinkIncremental>
+      <ExecutablePath>$(S3E_DIR)\bin;$(VCInstallDir)bin;$(WindowsSdkDir)bin\NETFX 4.0 Tools;$(WindowsSdkDir)bin;$(VSInstallDir)Common7\Tools\bin;$(VSInstallDir)Common7\tools;$(VSInstallDir)Common7\ide;$(ProgramFiles)\HTML Help Workshop;$(FrameworkSDKDir)\bin;$(MSBuildToolsPath32);$(VSInstallDir);$(SystemRoot)\SysWow64;$(FxCopDir);$(PATH);</ExecutablePath>
+      <IntDir>Release_AdmobAds_windows_vc10_x86\</IntDir>
+      <OutDir>c:\marmalade\marmalade-projects\monsterhome\extensions\admobads\lib\win32\</OutDir>
+      <TargetName>AdmobAds</TargetName>
+      <TargetExt>.dll</TargetExt>
+      <GenerateManifest>false</GenerateManifest>
+    </PropertyGroup>
+    <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='X86 Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <IntrinsicFunctions>false</IntrinsicFunctions>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <PreprocessorDefinitions></PreprocessorDefinitions>
+      <RuntimeLibrary>MultiThreadedDebug</RuntimeLibrary>
+      <TreatWChar_tAsBuiltInType>true</TreatWChar_tAsBuiltInType>
+      <AdditionalOptions>/S3Eproject /J /FI"c:\marmalade\marmalade-projects\monsterhome\extensions\admobads\build_admobads_windows_win32_vc10_x86\temp_defines_debug.h"</AdditionalOptions>
+      <TreatWarningAsError>false</TreatWarningAsError>
+      <IgnoreStandardIncludePath>false</IgnoreStandardIncludePath>
+      <AdditionalIncludeDirectories>c:/marmalade/marmalade-projects/monsterhome/extensions/admobads/source/h;c:/marmalade/marmalade-projects/monsterhome/extensions/admobads/h;c:/marmalade/6.0/s3e/edk/h;c:/marmalade/6.0/s3e/h;c:/marmalade/6.0/s3e/h/ext;c:/marmalade/6.0/modules/iwutil/h;c:/marmalade/6.0/modules/iwcore/h;.</AdditionalIncludeDirectories>
+      <DebugInformationFormat>EditAndContinue</DebugInformationFormat>
+      <BasicRuntimeChecks>EnableFastChecks</BasicRuntimeChecks>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalOptions></AdditionalOptions>
+      <AdditionalDependencies>edk.lib</AdditionalDependencies>
+      <AdditionalLibraryDirectories>c:/marmalade/6.0/s3e/edk/lib/win32</AdditionalLibraryDirectories>
+      <EnableCOMDATFolding>false</EnableCOMDATFolding>
+      <OptimizeReferences>false</OptimizeReferences>
+      <OutputFile>$(OutDir)$(TargetName)$(TargetExt)</OutputFile>
+      <EntryPointSymbol></EntryPointSymbol>
+      <IgnoreSpecificDefaultLibraries></IgnoreSpecificDefaultLibraries>
+    </Link>
+    <Lib>
+      <AdditionalOptions> %(AdditionalOptions) </AdditionalOptions>
+    </Lib>
+    </ItemDefinitionGroup>
+    <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='X86 Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <PreprocessorDefinitions></PreprocessorDefinitions>
+      <RuntimeLibrary>MultiThreaded</RuntimeLibrary>
+      <TreatWChar_tAsBuiltInType>true</TreatWChar_tAsBuiltInType>
+      <AdditionalOptions>/S3Eproject /J /FI"c:\marmalade\marmalade-projects\monsterhome\extensions\admobads\build_admobads_windows_win32_vc10_x86\temp_defines_release.h"</AdditionalOptions>
+      <TreatWarningAsError>false</TreatWarningAsError>
+      <IgnoreStandardIncludePath>false</IgnoreStandardIncludePath>
+      <AdditionalIncludeDirectories>c:/marmalade/marmalade-projects/monsterhome/extensions/admobads/source/h;c:/marmalade/marmalade-projects/monsterhome/extensions/admobads/h;c:/marmalade/6.0/s3e/edk/h;c:/marmalade/6.0/s3e/h;c:/marmalade/6.0/s3e/h/ext;c:/marmalade/6.0/modules/iwutil/h;c:/marmalade/6.0/modules/iwcore/h;.</AdditionalIncludeDirectories>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+      <BasicRuntimeChecks>Default</BasicRuntimeChecks>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>false</GenerateDebugInformation>
+      <AdditionalOptions></AdditionalOptions>
+      <AdditionalDependencies>edk.lib</AdditionalDependencies>
+      <AdditionalLibraryDirectories>c:/marmalade/6.0/s3e/edk/lib/win32</AdditionalLibraryDirectories>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <OutputFile>$(OutDir)$(TargetName)$(TargetExt)</OutputFile>
+      <EntryPointSymbol></EntryPointSymbol>
+      <IgnoreSpecificDefaultLibraries></IgnoreSpecificDefaultLibraries>
+    </Link>
+    <Lib>
+      <AdditionalOptions> %(AdditionalOptions) </AdditionalOptions>
+    </Lib>
+    </ItemDefinitionGroup>
+  <ItemGroup>
+    <None Include="c:/marmalade/marmalade-projects/monsterhome/extensions/admobads/admobads_build.mkf" />
+    <None Include="c:/marmalade/marmalade-projects/monsterhome/extensions/admobads/interface/AdmobAds.defines.txt" />
+    <None Include="c:/marmalade/marmalade-projects/monsterhome/extensions/admobads/AdmobAds.s4e" />
+    <None Include="c:/marmalade/6.0/s3e/edk/edk.mkf" />
+    <None Include="c:/marmalade/6.0/extensions/builder/make_extension.py" />
+    <CustomBuild Include="..\AdmobAds_windows.mkb">
+      <FileType>Document</FileType>
+      <Command Condition="'$(Configuration)|$(Platform)'=='X86 Debug|Win32'">"C:\Marmalade\6.0\s3e\python\python.exe" "C:\Marmalade\6.0\s3e\makefile_builder\mkb.py" "--open-with-wmlaunchpad" "C:/Marmalade/Marmalade-Projects/MonsterHome/extensions/AdmobAds/AdmobAds_windows.mkb" "--default-buildenv=vc10" --msvc-project</Command>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='X86 Debug|Win32'">AdmobAds_windows_vc10.stamp</Outputs>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='X86 Debug|Win32'">c:/marmalade/marmalade-projects/monsterhome/extensions/admobads/admobads_build.mkf;c:/marmalade/marmalade-projects/monsterhome/extensions/admobads/AdmobAds.s4e;c:/marmalade/6.0/s3e/edk/edk.mkf</AdditionalInputs>
+      <Command Condition="'$(Configuration)|$(Platform)'=='X86 Release|Win32'">"C:\Marmalade\6.0\s3e\python\python.exe" "C:\Marmalade\6.0\s3e\makefile_builder\mkb.py" "--open-with-wmlaunchpad" "C:/Marmalade/Marmalade-Projects/MonsterHome/extensions/AdmobAds/AdmobAds_windows.mkb" "--default-buildenv=vc10" --msvc-project</Command>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='X86 Release|Win32'">AdmobAds_windows_vc10.stamp</Outputs>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='X86 Release|Win32'">c:/marmalade/marmalade-projects/monsterhome/extensions/admobads/admobads_build.mkf;c:/marmalade/marmalade-projects/monsterhome/extensions/admobads/AdmobAds.s4e;c:/marmalade/6.0/s3e/edk/edk.mkf</AdditionalInputs>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="c:/marmalade/6.0/s3e/h/s3eDevice.h" />
+    <ClInclude Include="c:/marmalade/6.0/s3e/h/s3eThread.h" />
+    <ClInclude Include="c:/marmalade/6.0/s3e/h/s3eCompass.h" />
+    <ClInclude Include="c:/marmalade/6.0/s3e/h/s3eCompression.h" />
+    <ClInclude Include="c:/marmalade/6.0/s3e/edk/h/s3eEdk_iphone.h" />
+    <ClInclude Include="c:/marmalade/6.0/s3e/h/AirplayVersion.h" />
+    <ClInclude Include="c:/marmalade/6.0/s3e/h/s3eTimer.h" />
+    <ClInclude Include="c:/marmalade/6.0/s3e/h/s3e.h" />
+    <ClInclude Include="c:/marmalade/6.0/s3e/h/s3eSoundRecord.h" />
+    <ClInclude Include="c:/marmalade/6.0/s3e/h/s3eVibra.h" />
+    <ClInclude Include="c:/marmalade/6.0/s3e/h/s3eExt.h" />
+    <ClInclude Include="c:/marmalade/6.0/s3e/h/s3eVersion.h" />
+    <ClInclude Include="c:/marmalade/6.0/s3e/h/MarmaladeVersion.h" />
+    <ClInclude Include="c:/marmalade/6.0/s3e/h/s3eSound.h" />
+    <ClInclude Include="c:/marmalade/marmalade-projects/monsterhome/extensions/admobads/source/h/AdmobAds_autodefs.h" />
+    <ClInclude Include="c:/marmalade/6.0/s3e/h/s3eAudio.h" />
+    <ClInclude Include="c:/marmalade/6.0/s3e/h/s3eConfig.h" />
+    <ClInclude Include="c:/marmalade/6.0/s3e/edk/h/s3eEdk_android.h" />
+    <ClInclude Include="c:/marmalade/6.0/s3e/h/s3eCamera.h" />
+    <ClInclude Include="c:/marmalade/6.0/s3e/h/s3eTypes.h" />
+    <ClInclude Include="c:/marmalade/6.0/s3e/h/s3eContacts.h" />
+    <ClInclude Include="c:/marmalade/6.0/s3e/edk/h/s3eEdk.h" />
+    <ClInclude Include="c:/marmalade/6.0/s3e/h/s3eSurface.h" />
+    <ClInclude Include="c:/marmalade/6.0/s3e/h/s3eAccelerometer.h" />
+    <ClInclude Include="c:/marmalade/6.0/s3e/h/s3eMemory.h" />
+    <ClInclude Include="c:/marmalade/6.0/s3e/h/s3eCrypto.h" />
+    <ClInclude Include="c:/marmalade/6.0/s3e/h/s3eKeyboard.h" />
+    <ClInclude Include="c:/marmalade/6.0/s3e/h/s3eFile.h" />
+    <ClInclude Include="c:/marmalade/6.0/s3e/edk/h/s3eEdkError.h" />
+    <ClInclude Include="c:/marmalade/marmalade-projects/monsterhome/extensions/admobads/source/h/AdmobAds_internal.h" />
+    <ClInclude Include="c:/marmalade/6.0/s3e/h/s3eSecureStorage.h" />
+    <ClInclude Include="c:/marmalade/6.0/s3e/h/s3eSocket.h" />
+    <ClInclude Include="c:/marmalade/6.0/s3e/h/s3eLocation.h" />
+    <ClInclude Include="c:/marmalade/6.0/s3e/h/s3eHash.h" />
+    <ClInclude Include="c:/marmalade/6.0/s3e/h/s3eClipboard.h" />
+    <ClInclude Include="c:/marmalade/6.0/s3e/h/s3eGL.h" />
+    <ClInclude Include="c:/marmalade/6.0/s3e/edk/h/s3eEdk_windows.h" />
+    <ClInclude Include="c:/marmalade/6.0/s3e/h/s3eDebug.h" />
+    <ClInclude Include="c:/marmalade/6.0/s3e/h/s3eLicense.h" />
+    <ClInclude Include="c:/marmalade/6.0/s3e/h/s3eVideo.h" />
+    <ClInclude Include="c:/marmalade/6.0/s3e/h/s3ePointer.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="c:/marmalade/marmalade-projects/monsterhome/extensions/admobads/source/windows/AdmobAds_platform.cpp" />
+    <ClCompile Include="c:/marmalade/marmalade-projects/monsterhome/extensions/admobads/source/generic/AdmobAds_register.cpp" />
+    <ClCompile Include="c:/marmalade/marmalade-projects/monsterhome/extensions/admobads/source/generic/AdmobAds.cpp" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

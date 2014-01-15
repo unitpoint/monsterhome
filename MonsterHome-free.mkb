@@ -1,0 +1,31 @@
+subprojects
+{
+	MonsterHome
+	AdmobAds
+}
+
+defines { 
+	GAME_FREE_VERSION
+
+	GAME_VERSION_MAJOR=1
+	GAME_VERSION_MINOR=0
+	GAME_VERSION_REVISION=0
+}
+
+deployments
+{
+	android-external-jars=extensions/AdmobAds/GoogleAdMobAdsSdk-6.0.1.jar
+}
+
+#### AUTO GENERATED deployment settings from DeployTool.exe. Do not edit below this line ####
+deployments
+{
+	["Default"]
+	version-major=1
+	version-minor=0
+	version-revision=0
+	version-string='1.0'
+	android-extra-application-manifest='deploy/android/extra_application_free.manifest'
+	android-manifest='deploy/android/AndroidManifest.xml'
+	caption='Game Name Free'
+}

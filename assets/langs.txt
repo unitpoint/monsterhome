@@ -1,0 +1,9 @@
+{
+	en: "English",
+	fr: "Français",
+	de: "Deutsch",
+	it: "Italiano",
+	es: "Español",
+	ru: "Русский",
+	uk: "Український",	
+}
