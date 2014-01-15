@@ -42,6 +42,3 @@ Just download and install free version of the Marmalade SDK to compile and run t
 Run included MonsterHome-free.mkb file to generate Visual Studio project of free game version (with ads, 3-th mode is locked).
 
 Run included MonsterHome.mkb file to generate Visual Studio project of paid game version (all modes unlocked).
-
-Monster Home is made by Evgeniy Golovin
-
