@@ -42,3 +42,23 @@ Just download and install free version of the Marmalade SDK to compile and run t
 Run included MonsterHome-free.mkb file to generate Visual Studio project of free game version (with ads, 3-th mode is locked).
 
 Run included MonsterHome.mkb file to generate Visual Studio project of paid game version (all modes unlocked).
+
+## Other my projects
+
+* [OS2D](https://github.com/unitpoint/os2d) is cross platform engine for 2d mobile games (examples included) made with ObjectScript and Oxygine
+* [OS2D binaries](https://github.com/unitpoint/os2d-bin-win) is OS2D binaries and executables examples for Windows
+* [CastleMonster](https://github.com/unitpoint/CastleMonster) is opensource old school battle mobile game made with OS2D
+* [CastleMonster binaries](https://github.com/unitpoint/CastleMonster-bin-win) is CastleMonster binaries and executables files for Windows
+* [eXeXeXeX](https://github.com/unitpoint/eXeXeXeX) is opensource is a 4X genre of strategy-based video game made with OS2D
+* [eXeXeXeX binaries](https://github.com/unitpoint/eXeXeXeX-bin-win) is eXeXeXeX binaries and executables files for Windows
+* [ObjectScript](https://github.com/unitpoint/objectscript) is ObjectScript language repository of full opensource code
+* [ObjectScript binaries](https://github.com/unitpoint/objectscript-bin-win) is ObjectScript binaries and executables files for Windows (os.exe & os-fcgi.exe included)
+* [objectscript.org](http://objectscript.org) is ObjectScript site
+* [objectscript.org repo](https://github.com/unitpoint/objectscript.org) is ObjectScript site opensource code repository
+* [Programming in ObjectScript](https://github.com/unitpoint/objectscript/wiki/Programming-in-ObjectScript)
+* [ObjectScript Reference](https://github.com/unitpoint/objectscript/wiki/ObjectScript-Reference)
+* [ObjectScript C++ binder generator](https://github.com/unitpoint/objectscript/blob/master/src/os-binder-generator.os)
+
+##Contacts
+
+Please feel free to contact me at anytime, my email is evgeniy.golovin@unitpoint.ru, skype: egolovin
